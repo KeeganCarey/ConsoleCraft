@@ -16,11 +16,11 @@ public class Game {
     public static final int CONSOLE_W_PRESET = 250; //old 300
     public static final int CONSOLE_H_PRESET = 120; //old 145
 
-    public static final int RENDER_DISTANCE = 50;
+    public static final int RENDER_DISTANCE = 100;
     public static void main(String[] args) {
 
 
-        GameUI ui = new GameUI("ConsoleCraftlol", 5);// The JFrame for the game itself
+        GameUI ui = new GameUI("ConsoleCraftlol", 5); // The JFrame for the game itself
         //it handles input events and is able to display the rendered frames
         //since it handles input events, the camera class resides within (Camera stores the pos and rotation)
 
@@ -63,8 +63,8 @@ public class Game {
             }
 
             //literally just switch which one is commented to switch render modes lol
-            ui.setDisp(ren.frameToString());// sets the ui display to the rendered frame as a string
-            //System.out.println(ren.frameToString()); // sets the console display to the rendered frame as a string
+            //ui.setDisp(ren.frameToString());// sets the ui display to the rendered frame as a string
+            System.out.println(ren.frameToString()); // sets the console display to the rendered frame as a string
 
         }
     }

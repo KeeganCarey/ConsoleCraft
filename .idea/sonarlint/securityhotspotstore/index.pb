@@ -21,3 +21,15 @@ C
 src/types/Face.java,5\4\543ded97c9470bbeeb2f8ff279acf37c24b1410a
 L
 src/rendertypes/OldCube.java,3\1\31557798ff1ab7dc5e8944bbc64bed4d4430eeb6
+>
+src/World.java,5\8\58f2be49c7469c5ab8424b45f334c42baf371c57
+A
+src/Renderer.java,6\4\64e2fd503b273815366f1c9ea225e5fe1e7b9885
+D
+src/types/Coord.java,8\f\8f0d13bfdf5f65021c09bc8fa1d4c36d30f3135e
+?
+src/Camera.java,c\e\ce1dfb5c79c10242db82c6c59f037385838760db
+E
+src/blocks/Stone.java,3\d\3d6fe6c0a9dba92baa321ea9bd85e4e7882a7688
+E
+src/blocks/Block.java,1\d\1dadbc465a4e6a8e872d5ebf55ca9be9b26079e1
