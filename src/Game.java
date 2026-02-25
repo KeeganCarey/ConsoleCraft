@@ -45,7 +45,7 @@ public class Game {
         //the renderable set can then be updated each time a block interaction is preformed (removal or addition of a block)
 
 
-        dim1.generateFromNoisemap("C:\\Users\\fired\\Desktop\\ConsoleCraft\\src\\noisemaps\\terrain_noise_1.jpg"); //todo: CHANGE THIS PATH WHEN RUNNING ON DIF COMPUTER
+        dim1.generateFromNoisemap("src\\noisemaps\\terrain_noise_1.jpg"); //todo: CHANGE THIS PATH WHEN RUNNING ON DIF COMPUTER
         //the world is also able to generate from a noisemap
         //it just corresponds the brightness of the pixel to the height(y) to the coord of the pixel to the x and y
 
